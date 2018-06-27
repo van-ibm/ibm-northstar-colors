@@ -1,0 +1,14 @@
+{
+  "name": "ibm-northstar-colors",
+  "version": "1.0.0",
+  "description": "Color palette from IBM's Northstar branding",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "ibm",
+    "colors",
+    "design"
+  ],
+  "author": "van_staub@us.ibm.com",
+  "license": "MIT"
+}
